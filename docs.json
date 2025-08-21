@@ -1,11 +1,15 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Dalta Labs API",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#D77A61",
+    "light": "#D77A61",
+    "dark": "#D77A61", 
+    "background": {
+      "light": "#FDF8F4",
+      "dark": "#2A2726"
+    }
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -89,14 +93,14 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:aoden@daltalabs.com"
       }
     ],
     "primary": {
