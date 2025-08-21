@@ -7,7 +7,7 @@
     "light": "#D77A61",
     "dark": "#D77A61"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png?v=2",
   "navigation": {
     "tabs": [
       {
@@ -71,14 +71,14 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Website",
           "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "icon": "globe"
         },
         {
           "anchor": "Community",
           "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "icon": "discord"
         },
         {
           "anchor": "Blog",
@@ -89,8 +89,14 @@
     }
   },
   "logo": {
-    "light": "/logo/light.png",
-    "dark": "/logo/dark.png"
+    "light": "/logo/logo.png",
+    "dark": "/logo/logo.png",
+    "href": "https://daltalabs.com"
+  },
+  "styling": {
+    "logo": {
+      "height": "30px"
+    }
   },
   "navbar": {
     "links": [
